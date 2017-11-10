@@ -1,0 +1,22 @@
+{
+  "name": "socket-io-exercise",
+  "version": "1.0.0",
+  "description": "Learn websockets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkarn/socket-io-exercise.git"
+  },
+  "author": "Håkan Arnoldson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hkarn/socket-io-exercise/issues"
+  },
+  "homepage": "https://github.com/hkarn/socket-io-exercise#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
